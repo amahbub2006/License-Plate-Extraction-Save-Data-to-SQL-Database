@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pt
+.vscode/
+.DS_Store
+yolov10/.git/
